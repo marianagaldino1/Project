@@ -20,6 +20,8 @@ namespace Dev_Project
          
         }
 
+        
+      
         private void LimparDados()
         {
             txtNome.Text = "";
